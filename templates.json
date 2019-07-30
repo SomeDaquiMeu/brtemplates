@@ -24,6 +24,12 @@
   "width": 112, "height": 321
 }
 
+,"basetr": {
+  "name": "bayrak.png",
+  "x": -4096,  "y": 2895,
+  "width": 102, "height": 64
+}
+
 ,"ancap": {
   "name": "ancapfinal.png",
   "x": -4096,  "y": 1897,
