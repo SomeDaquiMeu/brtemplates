@@ -24,6 +24,13 @@
   "width": 112, "height": 321
 }
 
+,"baseaf": {
+  "name": "baseaf.png",
+  "x": 3533,  "y": 2455,
+  "width": 561, "height": 488
+}
+
+
 ,"basetr": {
   "name": "bayrak.png",
   "x": -4096,  "y": 2895,
